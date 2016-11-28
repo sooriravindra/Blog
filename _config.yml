@@ -4,7 +4,7 @@ email:       sooriravindra@gmail.com
 author:      Raveendra Soori
 description: "Code, life and ethics"
 baseurl:     ""
-url:         ""
+url:         "http://blog.raveendrasoori.com"
 date_format: "%b %-d, %Y"
 
 # Google services
