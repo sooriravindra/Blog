@@ -12,5 +12,11 @@ $gem install bundler jekyll
 $bundle install
 $bundle exec jekyll serve
 `
+To create a new post:
 
+`
+$ rake post[sample_title_no_spaces]
+`
+
+then change the corresponding file created under the _posts directory to update the post.
 
